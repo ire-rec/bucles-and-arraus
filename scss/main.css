@@ -17,4 +17,13 @@
 .numbers {
   color: darkviolet;
   font-size: 18px;
+}
+
+.btnAlarm {
+  background-color: burlywood;
+  font-size: 22px;
+}
+
+.red {
+  background-color: red;
 }/*# sourceMappingURL=main.css.map */
